@@ -1,0 +1,3 @@
+C:/Users/jmcg0/CLionProjects/SituacionProblemaOOP2/cmake-build-debug/CMakeFiles/SituacionProblemaOOP2.dir
+C:/Users/jmcg0/CLionProjects/SituacionProblemaOOP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jmcg0/CLionProjects/SituacionProblemaOOP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
